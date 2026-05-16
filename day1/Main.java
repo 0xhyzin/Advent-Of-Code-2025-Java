@@ -1,8 +1,8 @@
-import part1.Part1;
+import part2.Part2;
 
 public class Main {
     public static void main(String[] args) {
-        int password= Part1.StartRolit();
+        int password= Part2.StartRolit();
         System.out.println(password);
 
     }

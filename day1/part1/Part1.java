@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Part1 {
 
-    private static List<String> GetDataFromFile() {
+    public static List<String> GetDataFromFile() {
 
         List<String> listString = new ArrayList<>();
 
